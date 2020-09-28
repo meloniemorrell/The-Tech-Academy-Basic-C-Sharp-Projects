@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\bin\Debug\assignment_151_4.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\bin\Debug\assignment_151_4.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\bin\Debug\assignment_151_4.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\obj\Debug\assignment_151_4.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\obj\Debug\assignment_151_4.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_151_4\assignment_151_4\obj\Debug\assignment_151_4.pdb
