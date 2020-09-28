@@ -21,43 +21,32 @@ namespace else_if_assignment_178
             if (wt > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+
             }
 
             else if (wt < 50)
             {
                 Console.WriteLine("Please enter package width: ");
-                int wi = Convert.ToInt32(Console.ReadLine());
+                int num1 = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine("Please enter package height: ");
-                int h = Convert.ToInt32(Console.ReadLine());
+                int num2 = Convert.ToInt32(Console.ReadLine());
 
 
                 Console.WriteLine("Please enter package length: ");
-                int l = Convert.ToInt32(Console.ReadLine());
+                int num3 = Convert.ToInt32(Console.ReadLine());
 
-                int totalWt = ((wi * h * l) * wt / 100);
+                int totalWt = ((num1 + num2 + num3) * wt / 100);
                 string msg = "The quote for your shipping charges is $ " + totalWt.ToString();
                 Console.ReadLine();
-            }
-          
-            else if (wi * h * l > 50)
-            {
-                Console.WriteLine("Package too heavy to be shipped via Package Express.");
-
-            }
 
 
-
-
-
-
-
-            {
-
-               
-                                
-            }
-                    
+                if (num1 + num2 + num3 > 50)
+                {
+                    Console.WriteLine("Package too heavy to be shipped via Package Express.");
+                }
+            }             
            
 
             
