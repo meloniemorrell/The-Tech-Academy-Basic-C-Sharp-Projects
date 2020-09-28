@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb

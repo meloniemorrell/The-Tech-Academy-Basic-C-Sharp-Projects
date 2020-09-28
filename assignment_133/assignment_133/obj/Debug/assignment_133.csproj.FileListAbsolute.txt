@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\obj\Debug\assignment_133.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\obj\Debug\assignment_133.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\bin\Debug\assignment_133.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\bin\Debug\assignment_133.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\bin\Debug\assignment_133.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\obj\Debug\assignment_133.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_133\assignment_133\obj\Debug\assignment_133.pdb
