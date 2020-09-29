@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\bin\Debug\strings_assignment_186_2.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\bin\Debug\strings_assignment_186_2.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\bin\Debug\strings_assignment_186_2.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\obj\Debug\strings_assignment_186_2.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\obj\Debug\strings_assignment_186_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\obj\Debug\strings_assignment_186_2.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings_assignment_186_2\strings_assignment_186_2\obj\Debug\strings_assignment_186_2.pdb
