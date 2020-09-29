@@ -11,19 +11,23 @@ namespace arrays_lists_assignments
     {
         static void Main(string[] args)
         {
+            string[] stringArray = new string[7];
 
-            string[] weekDays = new string[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
+            stringArray[0] = Sunday;
+            stringArray[1] = Monday;
+            stringArray[2] = Tuesday;
+            stringArray[3] = Wednesday;
+            stringArray[4] = Thursday;
+            stringArray[5] = Friday;
+            stringArray[6] = Saturday;
 
-            Console.WriteLine("Choose the day of the week from the list that is referred to as \"hump day\" ");
+
+
+            Console.WriteLine("Select an index of the array: ");
+
+            string input1 = Convert.ToString(Console.ReadLine());
+            Console.WriteLine(stringArray[input1]);
             Console.ReadLine();
-
-            Console.WriteLine("Sunday, Monday, Tuesday, Wednesday,Thursday, Friday, Saturday");
-            Console.ReadLine();
-
-            Console.WriteLine(weekDays[3] + " ,yes that is correct!");
-            Console.ReadLine();
-
-
 
 
 

@@ -12,10 +12,10 @@ namespace arrays_lists_assignments
         static void Main(string[] args)
         {
 
-            int[] numArray = new int[14];
+            int[] numArray = new int[10];
 
             numArray[0] = 1;
-            numArray[1] = 23;
+            numArray[1] = 2;
             numArray[2] = 3;
             numArray[3] = 4;
             numArray[4] = 5;
@@ -24,10 +24,7 @@ namespace arrays_lists_assignments
             numArray[7] = 8;
             numArray[8] = 9;
             numArray[9] = 10;
-            numArray[10] = 11;
-            numArray[11] = 12;
-            numArray[12] = 13;
-            numArray[13] = 14;
+      
            
             Console.WriteLine("Select an index of the array: ");
 
