@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\bin\Debug\boolean_assignment_161.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\bin\Debug\boolean_assignment_161.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\bin\Debug\boolean_assignment_161.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\obj\Debug\boolean_assignment_161.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\obj\Debug\boolean_assignment_161.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\obj\Debug\boolean_assignment_161.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_assignment_161\boolean_assignment_161\obj\Debug\boolean_assignment_161.pdb
