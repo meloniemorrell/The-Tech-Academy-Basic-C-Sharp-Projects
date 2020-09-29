@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\bin\Debug\boolean_comparison_assignment_181.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\bin\Debug\boolean_comparison_assignment_181.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\bin\Debug\boolean_comparison_assignment_181.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\obj\Debug\boolean_comparison_assignment_181.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\obj\Debug\boolean_comparison_assignment_181.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\obj\Debug\boolean_comparison_assignment_181.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\boolean_comparison_assignment_181\boolean_comparison_assignment_181\obj\Debug\boolean_comparison_assignment_181.pdb
