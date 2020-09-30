@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\bin\Debug\console_app_part_1_1971.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\bin\Debug\console_app_part_1_1971.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\bin\Debug\console_app_part_1_1971.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\obj\Debug\console_app_part_1_1971.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\obj\Debug\console_app_part_1_1971.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\obj\Debug\console_app_part_1_1971.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\console_app_part_1_1971\console_app_part_1_1971\obj\Debug\console_app_part_1_1971.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\bin\Debug\iteration_video_192.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\bin\Debug\iteration_video_192.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\bin\Debug\iteration_video_192.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\obj\Debug\iteration_video_192.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\obj\Debug\iteration_video_192.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\obj\Debug\iteration_video_192.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\iteration_video_192\iteration_video_192\obj\Debug\iteration_video_192.pdb
