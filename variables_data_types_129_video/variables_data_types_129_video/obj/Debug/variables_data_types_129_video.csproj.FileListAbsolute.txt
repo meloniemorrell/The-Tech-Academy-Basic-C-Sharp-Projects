@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\bin\Debug\variables_data_types_129_video.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\bin\Debug\variables_data_types_129_video.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\bin\Debug\variables_data_types_129_video.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\obj\Debug\variables_data_types_129_video.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\obj\Debug\variables_data_types_129_video.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\obj\Debug\variables_data_types_129_video.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\variables_data_types_129_video\variables_data_types_129_video\obj\Debug\variables_data_types_129_video.pdb
