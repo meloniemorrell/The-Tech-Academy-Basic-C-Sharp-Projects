@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\bin\Debug\netcoreapp3.1\test1.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\test1\test1\obj\Debug\netcoreapp3.1\test1.genruntimeconfig.cache

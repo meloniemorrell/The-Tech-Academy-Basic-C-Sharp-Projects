@@ -13,14 +13,24 @@ namespace console_app_part_1_197
         {
             string[] stringArray = { "Cats", "Dogs", "Birds" };
 
+            Console.WriteLine("Please enter some text: ");
 
-            for (int i = 0; i < stringArray.Length; i++)
+            string userinput = Console.ReadLine();
+
+
+            foreach (string pet in stringArray)
             {
-                Console.WriteLine(stringArray[i]);
-
+                Console.WriteLine(pet + userinput);
+                Console.ReadLine();
             }
-            Console.WriteLine(String.Format("{0} are my least favorite pet", stringArray));
-            Console.ReadLine();
+
+            //for (int i = 0; i < stringArray.Length; i++)
+            //{
+            //    Console.WriteLine(stringArray[i]);
+
+            ////}
+            //Console.WriteLine(String.Format("{0} are my least favorite pet", stringArray));
+            //Console.ReadLine();
 
 
 

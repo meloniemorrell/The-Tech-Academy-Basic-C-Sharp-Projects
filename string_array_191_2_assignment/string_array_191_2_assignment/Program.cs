@@ -30,7 +30,7 @@ namespace arrays_lists_assignments
                 Console.ReadLine();
 
 
-            }
+            
             else
             {
                 Console.WriteLine(stringArray[userinput]);
