@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\obj\Debug\classes_objects_video_208.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\obj\Debug\classes_objects_video_208.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\bin\Debug\classes_objects_video_208.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\bin\Debug\classes_objects_video_208.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\bin\Debug\classes_objects_video_208.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\obj\Debug\classes_objects_video_208.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_objects_video_208\obj\Debug\classes_objects_video_208.pdb

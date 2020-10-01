@@ -8,24 +8,27 @@ namespace Console_App_part_4_200
 {
     class Program
     {
-        static bool Main(string[] args)
+        static void Main(string[] args)
         {
             List<string> randomThings = new List<string>() { "glue", "water", "carpet", "cars", "water" };
 
 
 
-            foreach (string ra in stringArray)
-                (int i = 0; i < randomThings.Count; i++)
+            foreach (int things in randomThings)
             {
-
-                if int randomThings = myList.Distinct().Count();
-
-                {
-                    Console.WriteLine("Duplicate value.");
-                }
-                Console.ReadLine();
-
+                int RandomThings = Convert.ToInt32(Console.ReadLine());
             }
 
-        }
+            {
+
+                if (int randomThings = randomThings.Distinct().Count());
+
+                {
+                    Console.WriteLine("Duplicate value");
+                }
+                Console.ReadLine();
+                
+         }
+
+    }
 }

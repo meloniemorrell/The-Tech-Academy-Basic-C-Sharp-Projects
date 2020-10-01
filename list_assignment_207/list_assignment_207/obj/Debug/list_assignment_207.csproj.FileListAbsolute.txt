@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\bin\Debug\list_assignment_207.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\bin\Debug\list_assignment_207.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\bin\Debug\list_assignment_207.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\obj\Debug\list_assignment_207.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\obj\Debug\list_assignment_207.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\obj\Debug\list_assignment_207.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\list_assignment_207\list_assignment_207\obj\Debug\list_assignment_207.pdb
