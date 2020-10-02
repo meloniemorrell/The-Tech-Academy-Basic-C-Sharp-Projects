@@ -1,12 +1,22 @@
-﻿using System;
+﻿// C# program to demonstrate the 
+// value of Math Class Fields 
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace class_assignment_216
+namespace parameterList
 {
-    class Math
-    {
-    }
-}
+
+	public class Methods
+	{
+		
+		public Methods()
+		{
+
+            static double VAT(double productCost, double currentRate)
+			{
+				double cR = (currentRate + 100) / 100;
+				return productCost * cR;
+			}
+
+
+
