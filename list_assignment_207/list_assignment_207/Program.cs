@@ -1,35 +1,76 @@
-﻿using System;
+﻿
+//        Console.WriteLine("Input number to divide each integer by: ");
+//        int a = Convert.ToInt32(Console.ReadLine());
+
+//        List<int> divList = new List<int>() { 2, 4, 6 };
+
+//        // Part A: loop through List with foreach.
+//        foreach (int list in divList)
+//        {
+//            int result = list / a;
+//            Console.WriteLine(result);
+//            Console.ReadLine();
+
+//            //int divList = divList / int a(Console.ReadLine);
+
+//        }
+//    }
+//}
+
+using System;
 using System.Collections.Generic;
 
-class Program
+
+namespace exceptions_video_203
 {
-    static void Main()
+
+
+    class Program
     {
-        // Version 1: create a List of ints.
-        // ... Add 4 ints to it.
-        var numbers = new List<int>();
-        numbers.Add(2);
-        numbers.Add(3);
-        numbers.Add(5);
-        numbers.Add(7);
-        Console.WriteLine("LIST 1: " + numbers.Count);
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            try
+            {
+
+                Console.WriteLine("Input number to divide each integer by: ");
+                int a = Convert.ToInt32(Console.ReadLine());
+
+                List<int> divList = new List<int>() { 2, 4, 6 };
+
+                // Part A: loop through List with foreach.
+
+                foreach (int list in divList)
+                {
+                    int result = list / a;
+                    Console.WriteLine(result + "Good job!");
+                    Console.ReadLine();
+                }
+            }
+            catch (FormatException ex)
+            {
+                //Console.WriteLine(ex.Message);or
+                Console.WriteLine("Please type a whole number.");
+                return;
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Please dont divide by zero");
+
+            }
 
 
-        //// Version 2: create a List with an initializer.
-        //var numbers2 = new List<int>() { 2, 3, 5, 7 };
-        //Console.WriteLine("LIST 2: " + numbers2.Count);
-        //Console.ReadLine();
+            catch (Exception ex)
+            {
+                Console.WriteLine("The program will now exit");
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
 
+
+        }
     }
 }
-
-
-
-
-
-
-
-
 
 
