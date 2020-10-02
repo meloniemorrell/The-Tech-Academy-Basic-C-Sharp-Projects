@@ -1,2 +1,7 @@
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\obj\Debug\class_assignment_216.csprojAssemblyReference.cache
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\obj\Debug\class_assignment_216.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\bin\Debug\class_assignment_216.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\bin\Debug\class_assignment_216.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\bin\Debug\class_assignment_216.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\obj\Debug\class_assignment_216.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_assignment_216\class_assignment_216\obj\Debug\class_assignment_216.pdb
