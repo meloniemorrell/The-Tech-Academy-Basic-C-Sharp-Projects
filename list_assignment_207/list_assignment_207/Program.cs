@@ -61,7 +61,7 @@ namespace exceptions_video_203
 
             catch (Exception ex)
             {
-                Console.WriteLine("The program will now exit");
+                Console.WriteLine("This program will now close");
             }
             finally
             {
