@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\obj\Debug\class_method_219.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\obj\Debug\class_method_219.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\bin\Debug\class_method_219.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\bin\Debug\class_method_219.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\bin\Debug\class_method_219.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\obj\Debug\class_method_219.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_219\class_method_219\obj\Debug\class_method_219.pdb

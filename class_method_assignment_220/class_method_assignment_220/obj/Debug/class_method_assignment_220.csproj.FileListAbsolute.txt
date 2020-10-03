@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\bin\Debug\class_method_assignment_220.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\bin\Debug\class_method_assignment_220.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\bin\Debug\class_method_assignment_220.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\obj\Debug\class_method_assignment_220.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\obj\Debug\class_method_assignment_220.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\obj\Debug\class_method_assignment_220.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\class_method_assignment_220\class_method_assignment_220\obj\Debug\class_method_assignment_220.csprojAssemblyReference.cache
