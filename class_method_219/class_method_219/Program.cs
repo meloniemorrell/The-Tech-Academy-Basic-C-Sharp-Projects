@@ -19,12 +19,20 @@ namespace MathOperations
             Console.WriteLine(result);
             Console.ReadLine();
 
+            Console.WriteLine("Enter decimal number to perform math operations on: ");
+            decimal userinput2 = Convert.ToDecimal(Console.ReadLine());
+
+
+            decimal result2 = calc.Multiply(userinput2);
+            Console.WriteLine(result2);
+            Console.ReadLine();
+
+
             Console.WriteLine("Enter string to perform math operations on: ");
-            int userinput1 = Convert.ToInt32(Console.ReadLine());
+            string userinput1 = Console.ReadLine();
 
-            Conversion calc1 = new Conversion();
 
-            int result1 = calc1.Add(userinput1);
+            int result1 = calc.Subtract(userinput1);
             Console.WriteLine(result1);
             Console.ReadLine();
 

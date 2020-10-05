@@ -8,7 +8,7 @@
 
 namespace MathOperations1
 {
-    public class Calculator1
+    public class Calculator
     {
 
         public int Add(int num1, int num2 = 10)

@@ -1,17 +1,34 @@
 ﻿
-using System.Collections.Generic;
+using System;
 
-class Program
+namespace CalculatorApplication
 {
-    static void Main()
+    class NumberManipulator
     {
-        List<int> list = new List<int>() { 2, 4, 6 };
-
-        // Part A: loop through List with foreach.
-        foreach (int prime in list)
+        public int FindMax(int num1, int num2)
         {
-            // Part B: access each element with name.
-            System.Console.WriteLine("PRIME ELEMENT: {0}", prime);
+            /* local variable declaration */
+            int result;
+
+            if (num1 > num2)
+                result = num1;
+            else
+                result = num2;
+            return result;
+        }
+
+        static void Main(string[] args)
+        {
+            /* local variable definition */
+            int a = 100;
+            int b = 200;
+            int ret;
+            NumberManipulator n = new NumberManipulator();
+
+            //calling the FindMax method
+            ret = n.FindMax(a, b);
+            Console.WriteLine("Max value is : {0}", ret);
+            Console.ReadLine();
         }
     }
 }
