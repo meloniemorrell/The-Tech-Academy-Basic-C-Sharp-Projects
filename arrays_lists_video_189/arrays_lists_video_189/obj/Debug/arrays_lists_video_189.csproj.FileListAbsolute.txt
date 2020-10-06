@@ -1,7 +1,0 @@
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\bin\Debug\arrays_lists_video_189.exe.config
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\bin\Debug\arrays_lists_video_189.exe
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\bin\Debug\arrays_lists_video_189.pdb
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\obj\Debug\arrays_lists_video_189.csprojAssemblyReference.cache
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\obj\Debug\arrays_lists_video_189.csproj.CoreCompileInputs.cache
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\obj\Debug\arrays_lists_video_189.exe
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\arrays_lists_video_189\arrays_lists_video_189\obj\Debug\arrays_lists_video_189.pdb

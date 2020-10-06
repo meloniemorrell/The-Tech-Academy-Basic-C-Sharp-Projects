@@ -1,7 +1,0 @@
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\bin\Debug\classes_assignmnet_216.exe.config
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\bin\Debug\classes_assignmnet_216.exe
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\bin\Debug\classes_assignmnet_216.pdb
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\obj\Debug\classes_assignmnet_216.csprojAssemblyReference.cache
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\obj\Debug\classes_assignmnet_216.csproj.CoreCompileInputs.cache
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\obj\Debug\classes_assignmnet_216.exe
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\classes_objects_video_208\classes_assignmnet_216\obj\Debug\classes_assignmnet_216.pdb
