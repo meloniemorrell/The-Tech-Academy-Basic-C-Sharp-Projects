@@ -6,19 +6,36 @@ using System.Text;
 
 namespace MelonieMorrell
 {
-    public static class Samples
-    {
-        public static void Sample229()
-        {
-            var employee = new Employee()
-            {
-                FirstName = "Sample",
-                LastName = "Student",
-                Id = 1
-            };
-            employee.SayName();
+    using System;
 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee e = new Employee();
+            e.firstName = "Sample";
+            e.lastName = "Student";
+            e.SayName();
+            Console.ReadLine();
+
+        }
+
+        abstract class Person
+        {
+            public string firstName { get; set; }
+            public string lastName { get; set; }
+
+            abstract public void SayName();
+        }
+
+        class Employee : Person
+        {
+            public override void SayName()
+            {
+                Console.WriteLine("Name: " + firstName + " " + lastName);
+            }
         }
     }
 
 }
+ 
