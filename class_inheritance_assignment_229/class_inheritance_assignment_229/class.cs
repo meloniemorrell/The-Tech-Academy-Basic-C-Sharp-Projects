@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-
-namespace MelonieMorrell
+namespace class_inheritance_assignment_229
 {
-    public static class Samples
+    public static class Inheritance
     {
         public static void Sample229()
         {
@@ -14,11 +14,11 @@ namespace MelonieMorrell
             {
                 FirstName = "Sample",
                 LastName = "Student",
-                Id = 1
+                I d = 1
             };
             employee.SayName();
 
         }
     }
-
+    }
 }

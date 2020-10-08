@@ -9,6 +9,7 @@ namespace class_overload_assignment_224
         {
             //var calculator = new Calculator();
             Console.WriteLine("Enter an integer");
+
             var userInput = Console.ReadLine();
 
             var inputAsInt = Convert.ToInt32(userInput);
