@@ -15,7 +15,7 @@ namespace assignment_240
     {
         static void Main(string[] args)
         {
-            Employee e = new Employee();
+            IQuittable e = new Employee();
             e.Quit();
             Console.ReadLine();
         }
