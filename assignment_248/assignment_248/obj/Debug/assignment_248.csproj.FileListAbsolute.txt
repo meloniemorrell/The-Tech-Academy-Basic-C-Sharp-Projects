@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\bin\Debug\assignment_248.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\bin\Debug\assignment_248.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\bin\Debug\assignment_248.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\obj\Debug\assignment_248.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\obj\Debug\assignment_248.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\obj\Debug\assignment_248.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_248\assignment_248\obj\Debug\assignment_248.pdb
