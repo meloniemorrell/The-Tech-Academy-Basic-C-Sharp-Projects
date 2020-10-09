@@ -1,10 +1,12 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main(string[] args)
     {
         Employee e = new Employee();
         e.FirstName = "Sample";
-        e.LastName = "Student";a
+        e.LastName = "Student";
         e.SayName();
         Console.ReadLine();
     }
