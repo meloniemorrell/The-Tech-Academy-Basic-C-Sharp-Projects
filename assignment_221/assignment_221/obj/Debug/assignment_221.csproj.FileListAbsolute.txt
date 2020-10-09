@@ -1,0 +1,2 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_221\assignment_221\obj\Debug\assignment_221.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\assignment_221\assignment_221\obj\Debug\assignment_221.csproj.CoreCompileInputs.cache

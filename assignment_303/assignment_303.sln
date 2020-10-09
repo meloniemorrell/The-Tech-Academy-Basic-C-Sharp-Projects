@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment_303", "assignment_303\assignment_303.csproj", "{0141FAEE-C624-44BB-977B-2B7BDFE7D590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment_2211", "..\assignment_2211\assignment_2211\assignment_2211.csproj", "{5ED2E058-3CA1-4175-9BA9-BB8CBB2E8BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class_inheritance_method_229", "..\class_inheritance_method_229\class_inheritance_method_229.csproj", "{A405332B-1223-4A37-9BAA-51220B05A5BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0141FAEE-C624-44BB-977B-2B7BDFE7D590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0141FAEE-C624-44BB-977B-2B7BDFE7D590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0141FAEE-C624-44BB-977B-2B7BDFE7D590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED2E058-3CA1-4175-9BA9-BB8CBB2E8BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED2E058-3CA1-4175-9BA9-BB8CBB2E8BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED2E058-3CA1-4175-9BA9-BB8CBB2E8BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED2E058-3CA1-4175-9BA9-BB8CBB2E8BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A405332B-1223-4A37-9BAA-51220B05A5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A405332B-1223-4A37-9BAA-51220B05A5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A405332B-1223-4A37-9BAA-51220B05A5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A405332B-1223-4A37-9BAA-51220B05A5BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

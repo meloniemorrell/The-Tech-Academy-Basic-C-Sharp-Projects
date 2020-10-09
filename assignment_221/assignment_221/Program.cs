@@ -35,8 +35,4 @@ namespace assignment_221
             }
         }
     }
-    static void Main(string[] args)
-        {
-        }
-    }
-}
+
