@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace assignment_265
+namespace Melonie08
 {
     class Program
     {
@@ -12,9 +12,9 @@ namespace assignment_265
         {
             List<Employee> emps = new List<Employee>
             {
-                new Employee(1,"joe","brooks"),
-                new Employee(2,"joe","blow"),
-                new Employee(3,"Tina","Williams"),
+                new Employee(1,"joe","dir"),
+                new Employee(2,"joe","dirt"),
+                new Employee(3,"test","wwww"),
                 new Employee(4,"Aine","Travis"),
                 new Employee(5,"Elysia","Trejo"),
                 new Employee(6,"Lea","Hensley"),
@@ -32,7 +32,37 @@ namespace assignment_265
                     newEmps.Add(e);
             }
 
-            List<Employee> newEmps2 = emps.Where(x => x.GetId > 5).ToList();
+
+            List<Employee> newEmps5 = new List<Employee>();
+            foreach (Employee e in emps.FindAll(e => e.GetFirstName.ToLower() == "joe"))
+            {
+                newEmps5.Add(e);
+            }
+
+            Func<Employee, bool> empJoe = x => x.GetFirstName.ToLower() == "joe";
+            List<Employee> newEmps6 = new List<Employee>();
+            foreach (Employee e in emps)
+            {
+                if (empJoe(e)) newEmps6.Add(e);
+            }
+
+            List<Employee> newEmps7 = emps.Where(x => x.GetFirstName.ToLower() == "joe").ToList();
+
+
+            List<Employee> newEmps2 = new List<Employee>();
+            foreach (Employee e in emps.FindAll(e => e.GetId > 5))
+            {
+                newEmps2.Add(e);
+            }
+
+            Func<Employee, bool> empFive = x => x.GetId > 5;
+            List<Employee> newEmps3 = new List<Employee>();
+            foreach (Employee e in emps)
+            {
+                if (empFive(e)) newEmps2.Add(e);
+            }
+
+            List<Employee> newEmps4 = emps.Where(x => x.GetId > 5).ToList();
         }
     }
 
@@ -73,5 +103,4 @@ namespace assignment_265
             }
         }
     }
-
 }

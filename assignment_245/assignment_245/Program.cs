@@ -4,8 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace assignment_245
+namespace Melonie245v3
 {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp1 = new Employee(1, "joe", "Info");
+            Employee emp2 = new Employee(1, "Tom", "dirt");
+            Employee emp3 = new Employee(2, "Tom", "dirt");
+
+            Console.WriteLine(emp1 == emp2);
+
+            if (emp1 == emp2)
+            {
+                Console.WriteLine("Employee Id's Match");
+            }
+
+            if (emp1 == emp3)
+            {
+                Console.WriteLine("Employee Id's Match");
+            }
+            else
+            {
+                Console.WriteLine("Employee Id's Do Not Match");
+            }
+
+            Console.WriteLine();
+            Console.ReadLine();
+        }
+    }
+
     class Employee
     {
         private int Id;
@@ -42,6 +71,22 @@ namespace assignment_245
                 Id = value;
             }
         }
-    }
 
+        public static bool operator ==(Employee x, Employee y)
+        {
+            if (x.GetId == y.GetId)
+                return true;
+            else
+                return false;
+        }
+
+        public static bool operator !=(Employee x, Employee y)
+        {
+            if (x.GetId != y.GetId)
+                return true;
+            else
+                return false;
+        }
+
+    }
 }
