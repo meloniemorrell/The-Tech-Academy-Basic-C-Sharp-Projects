@@ -51,6 +51,8 @@ C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Newsle
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Newsle
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\WebGrease.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Helpers.xml
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Mvc.xml
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Optimization.xml
@@ -72,12 +76,7 @@ C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Newsle
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.xml
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.pdb
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
-C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
