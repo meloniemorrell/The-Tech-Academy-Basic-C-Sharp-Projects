@@ -80,3 +80,4 @@ C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarIns
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CopyComplete
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.dll
 C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csprojAssemblyReference.cache
