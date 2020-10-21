@@ -24,13 +24,14 @@ namespace arrays_lists_assignments
 
             Console.WriteLine("Select an index of the array: ");
             int userinput = Convert.ToInt32(Console.ReadLine());
-            if (userinput > 6 || userinput < 0) {
+            if (userinput > 6 || userinput < 0)
+            {
 
                 Console.WriteLine("Try again!");
                 Console.ReadLine();
+            }
 
 
-            
             else
             {
                 Console.WriteLine(stringArray[userinput]);
