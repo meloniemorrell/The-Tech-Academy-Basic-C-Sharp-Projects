@@ -46,6 +46,30 @@ namespace arrays_lists_assignments
 
 
             //}
+            {
+
+                var list = new List<String>{"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+
+
+                Console.WriteLine("Select an index of the string: ");
+                int userinput1 = Convert.ToInt32(Console.ReadLine());
+                if (userinput1 > 6 || userinput1 < 0)
+                {
+
+                    Console.WriteLine("Try again!");
+                    Console.ReadLine();
+                }
+
+
+                else
+                {
+                    Console.WriteLine(stringArray[userinput1]);
+                    Console.ReadLine();
+
+                }
+
+
+            }
 
 
 
